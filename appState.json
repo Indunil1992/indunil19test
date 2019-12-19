@@ -1,0 +1,75 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "c205f1b1-5c5b-4a4e-b9b6-42b9cfb9e52a": {
+        "id": "c205f1b1-5c5b-4a4e-b9b6-42b9cfb9e52a",
+        "parent": null,
+        "name": "indunil19test",
+        "type": "DIRECTORY",
+        "isDirectory": true,
+        "children": [
+          "09678093-8d93-4658-b9c1-2aed68c36b85"
+        ],
+        "isRemovable": false,
+        "filePath": "indunil19test"
+      },
+      "09678093-8d93-4658-b9c1-2aed68c36b85": {
+        "id": "09678093-8d93-4658-b9c1-2aed68c36b85",
+        "parent": "c205f1b1-5c5b-4a4e-b9b6-42b9cfb9e52a",
+        "name": "lambda.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "indunil19test/lambda.js",
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": []
+        },
+        "triggers": []
+      }
+    },
+    "rootNode": "c205f1b1-5c5b-4a4e-b9b6-42b9cfb9e52a",
+    "openFiles": [
+      "09678093-8d93-4658-b9c1-2aed68c36b85"
+    ],
+    "currentFileId": "09678093-8d93-4658-b9c1-2aed68c36b85",
+    "resources": {},
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "indunil19test",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "platformRegions": {},
+    "lastSave": 1576735900836
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "indunil19test",
+      "url": "https://github.com/Indunil1992/indunil19test"
+    }
+  }
+}
